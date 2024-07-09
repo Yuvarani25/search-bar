@@ -1,0 +1,27 @@
+.selector{
+    background-color: rgb(84, 81, 81);
+    height: 60px;
+    width: 380px;
+    margin:40px 250px 0px 550px;
+    align-items: center;
+}
+
+.row div{
+   
+    align-items: center;   
+}
+.col-8 h4 {
+    color: gray;
+    font-family: Cambria,Cochin, Georgia, Times, 'Times New Roman', serif; 
+}
+.row .col-4{
+    width:40px;
+    background-color: grey;
+    margin: 10px 10px 0px 0px;
+    
+}
+.row .col-8{
+    background-color: aliceblue;
+    width:320px;
+    margin: 10px 0px 0px 10px;
+}
